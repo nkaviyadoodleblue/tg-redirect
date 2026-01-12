@@ -8,4 +8,4 @@ USER node
 
 COPY . .
 
-CMD [ "npm", "start" ]
+CMD [ "npm" ]
